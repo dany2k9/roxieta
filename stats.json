@@ -1,0 +1,226 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-canopla-js": [
+      "component---src-pages-canopla-js-f568d376e90b04dddc9d.js",
+      "component---src-pages-canopla-js-f568d376e90b04dddc9d.js.map"
+    ],
+    "component---src-pages-bolsita-friselina-js": [
+      "component---src-pages-bolsita-friselina-js-3e474a31965f2bb13d5d.js",
+      "component---src-pages-bolsita-friselina-js-3e474a31965f2bb13d5d.js.map"
+    ],
+    "path---bolsitas-de-tela": [
+      "path---bolsitas-de-tela-a0e39f21c11f6a62c5ab.js",
+      "path---bolsitas-de-tela-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-babitas-js": [
+      "component---src-pages-babitas-js-a5f20b8ceb87f13e14f1.js",
+      "component---src-pages-babitas-js-a5f20b8ceb87f13e14f1.js.map"
+    ],
+    "path---bolso-matero": [
+      "path---bolso-matero-a0e39f21c11f6a62c5ab.js",
+      "path---bolso-matero-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---carpeta": [
+      "path---carpeta-a0e39f21c11f6a62c5ab.js",
+      "path---carpeta-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---mochila-escolar": [
+      "path---mochila-escolar-a0e39f21c11f6a62c5ab.js",
+      "path---mochila-escolar-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---cartucheras-neoprene": [
+      "path---cartucheras-neoprene-a0e39f21c11f6a62c5ab.js",
+      "path---cartucheras-neoprene-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-kit-basico-js": [
+      "component---src-pages-kit-basico-js-e33e51546a07e6a42bca.js",
+      "component---src-pages-kit-basico-js-e33e51546a07e6a42bca.js.map"
+    ],
+    "component---src-pages-bolsitas-de-tela-js": [
+      "component---src-pages-bolsitas-de-tela-js-d37f6cd04e2e4bd76018.js",
+      "component---src-pages-bolsitas-de-tela-js-d37f6cd04e2e4bd76018.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-230009e4f774a7539a24.js",
+      "component---src-pages-index-js-230009e4f774a7539a24.js.map"
+    ],
+    "component---src-pages-cartucheras-neoprene-js": [
+      "component---src-pages-cartucheras-neoprene-js-ed605764d616202cf2f6.js",
+      "component---src-pages-cartucheras-neoprene-js-ed605764d616202cf2f6.js.map"
+    ],
+    "component---src-pages-mochila-escolar-js": [
+      "component---src-pages-mochila-escolar-js-98374fb7d7dac21c2823.js",
+      "component---src-pages-mochila-escolar-js-98374fb7d7dac21c2823.js.map"
+    ],
+    "component---src-pages-kit-basico-mochila-js": [
+      "component---src-pages-kit-basico-mochila-js-73ac484713447478b3a6.js",
+      "component---src-pages-kit-basico-mochila-js-73ac484713447478b3a6.js.map"
+    ],
+    "path---canopla": [
+      "path---canopla-a0e39f21c11f6a62c5ab.js",
+      "path---canopla-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---kit-full": [
+      "path---kit-full-a0e39f21c11f6a62c5ab.js",
+      "path---kit-full-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---monedero": [
+      "path---monedero-a0e39f21c11f6a62c5ab.js",
+      "path---monedero-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-kit-basico-taza-js": [
+      "component---src-pages-kit-basico-taza-js-dff87a0a82d3d0f56917.js",
+      "component---src-pages-kit-basico-taza-js-dff87a0a82d3d0f56917.js.map"
+    ],
+    "path---taza-mantel": [
+      "path---taza-mantel-a0e39f21c11f6a62c5ab.js",
+      "path---taza-mantel-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---kit-basico": [
+      "path---kit-basico-a0e39f21c11f6a62c5ab.js",
+      "path---kit-basico-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-bolso-matero-js": [
+      "component---src-pages-bolso-matero-js-82ae8d3cc3207d6988e2.js",
+      "component---src-pages-bolso-matero-js-82ae8d3cc3207d6988e2.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-72c2854bd13db8e37118.js",
+      "component---src-layouts-index-js-72c2854bd13db8e37118.js.map"
+    ],
+    "component---src-pages-cartuchera-js": [
+      "component---src-pages-cartuchera-js-e1f739a67585c9910dff.js",
+      "component---src-pages-cartuchera-js-e1f739a67585c9910dff.js.map"
+    ],
+    "path---kit-basico-mochila": [
+      "path---kit-basico-mochila-a0e39f21c11f6a62c5ab.js",
+      "path---kit-basico-mochila-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---banderin": [
+      "path---banderin-a0e39f21c11f6a62c5ab.js",
+      "path---banderin-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---bolsita-friselina": [
+      "path---bolsita-friselina-a0e39f21c11f6a62c5ab.js",
+      "path---bolsita-friselina-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-banderin-js": [
+      "component---src-pages-banderin-js-969bbae3715edd4857dd.js",
+      "component---src-pages-banderin-js-969bbae3715edd4857dd.js.map"
+    ],
+    "path---babitas": [
+      "path---babitas-a0e39f21c11f6a62c5ab.js",
+      "path---babitas-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-bolsas-js": [
+      "component---src-pages-bolsas-js-000528cf9adab2d5bf2e.js",
+      "component---src-pages-bolsas-js-000528cf9adab2d5bf2e.js.map"
+    ],
+    "path---kit-basico-taza": [
+      "path---kit-basico-taza-a0e39f21c11f6a62c5ab.js",
+      "path---kit-basico-taza-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---page-2": [
+      "path---page-2-a0e39f21c11f6a62c5ab.js",
+      "path---page-2-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-page-3-js": [
+      "component---src-pages-page-3-js-15fbc4ec996c602aeba0.js",
+      "component---src-pages-page-3-js-15fbc4ec996c602aeba0.js.map"
+    ],
+    "component---src-pages-mochila-js": [
+      "component---src-pages-mochila-js-8dd9c7ce9d4b307c85c1.js",
+      "component---src-pages-mochila-js-8dd9c7ce9d4b307c85c1.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "path---taza": [
+      "path---taza-a0e39f21c11f6a62c5ab.js",
+      "path---taza-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "commons": [
+      "commons-ad2f24c469a9692d1160.js",
+      "commons-ad2f24c469a9692d1160.js.map"
+    ],
+    "component---src-pages-taza-js": [
+      "component---src-pages-taza-js-e7ea829069467f3b882d.js",
+      "component---src-pages-taza-js-e7ea829069467f3b882d.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-carpetas-n-3-js": [
+      "component---src-pages-carpetas-n-3-js-c8fd940ae16b5698a906.js",
+      "component---src-pages-carpetas-n-3-js-c8fd940ae16b5698a906.js.map"
+    ],
+    "path---cartuchera": [
+      "path---cartuchera-a0e39f21c11f6a62c5ab.js",
+      "path---cartuchera-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-monedero-js": [
+      "component---src-pages-monedero-js-4604890e85e4c0a1eb67.js",
+      "component---src-pages-monedero-js-4604890e85e4c0a1eb67.js.map"
+    ],
+    "path---page-4": [
+      "path---page-4-a0e39f21c11f6a62c5ab.js",
+      "path---page-4-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-carpeta-js": [
+      "component---src-pages-carpeta-js-17ae92c2bfd3b52d602f.js",
+      "component---src-pages-carpeta-js-17ae92c2bfd3b52d602f.js.map"
+    ],
+    "path---mochila": [
+      "path---mochila-a0e39f21c11f6a62c5ab.js",
+      "path---mochila-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---page-3": [
+      "path---page-3-a0e39f21c11f6a62c5ab.js",
+      "path---page-3-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-page-2-js": [
+      "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js",
+      "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js.map"
+    ],
+    "path---carpetas-n-3": [
+      "path---carpetas-n-3-a0e39f21c11f6a62c5ab.js",
+      "path---carpetas-n-3-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-page-4-js": [
+      "component---src-pages-page-4-js-017b32ed57a2e7f6511f.js",
+      "component---src-pages-page-4-js-017b32ed57a2e7f6511f.js.map"
+    ],
+    "app": [
+      "app-211bbbf33430e1e6be00.js",
+      "build-js-styles.css",
+      "app-211bbbf33430e1e6be00.js.map",
+      "build-js-styles.css.map"
+    ],
+    "component---src-pages-kit-full-js": [
+      "component---src-pages-kit-full-js-523502d48a6864efec34.js",
+      "component---src-pages-kit-full-js-523502d48a6864efec34.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---bolsas": [
+      "path---bolsas-a0e39f21c11f6a62c5ab.js",
+      "path---bolsas-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-taza-mantel-js": [
+      "component---src-pages-taza-mantel-js-83ddb99994842427c07d.js",
+      "component---src-pages-taza-mantel-js-83ddb99994842427c07d.js.map"
+    ]
+  }
+}
