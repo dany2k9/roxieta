@@ -4,6 +4,10 @@
       "component---src-pages-canopla-js-f568d376e90b04dddc9d.js",
       "component---src-pages-canopla-js-f568d376e90b04dddc9d.js.map"
     ],
+    "component---src-pages-qr-js": [
+      "component---src-pages-qr-js-0b1df05787cd03bf4147.js",
+      "component---src-pages-qr-js-0b1df05787cd03bf4147.js.map"
+    ],
     "component---src-pages-bolsita-friselina-js": [
       "component---src-pages-bolsita-friselina-js-3e474a31965f2bb13d5d.js",
       "component---src-pages-bolsita-friselina-js-3e474a31965f2bb13d5d.js.map"
@@ -35,6 +39,10 @@
     "component---src-pages-kit-basico-js": [
       "component---src-pages-kit-basico-js-e33e51546a07e6a42bca.js",
       "component---src-pages-kit-basico-js-e33e51546a07e6a42bca.js.map"
+    ],
+    "path---ml": [
+      "path---ml-a0e39f21c11f6a62c5ab.js",
+      "path---ml-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-bolsitas-de-tela-js": [
       "component---src-pages-bolsitas-de-tela-js-d37f6cd04e2e4bd76018.js",
@@ -68,6 +76,10 @@
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
+    "path---qr": [
+      "path---qr-a0e39f21c11f6a62c5ab.js",
+      "path---qr-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "path---monedero": [
       "path---monedero-a0e39f21c11f6a62c5ab.js",
       "path---monedero-a0e39f21c11f6a62c5ab.js.map"
@@ -89,8 +101,8 @@
       "component---src-pages-bolso-matero-js-82ae8d3cc3207d6988e2.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-617f05b6274df87e0743.js",
-      "component---src-layouts-index-js-617f05b6274df87e0743.js.map"
+      "component---src-layouts-index-js-10ff9c23f38333e48939.js",
+      "component---src-layouts-index-js-10ff9c23f38333e48939.js.map"
     ],
     "component---src-pages-cartuchera-js": [
       "component---src-pages-cartuchera-js-e1f739a67585c9910dff.js",
@@ -160,6 +172,10 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "component---src-pages-ml-js": [
+      "component---src-pages-ml-js-80105a14c269c24b9a30.js",
+      "component---src-pages-ml-js-80105a14c269c24b9a30.js.map"
+    ],
     "component---src-pages-carpetas-n-3-js": [
       "component---src-pages-carpetas-n-3-js-c8fd940ae16b5698a906.js",
       "component---src-pages-carpetas-n-3-js-c8fd940ae16b5698a906.js.map"
@@ -201,9 +217,9 @@
       "component---src-pages-page-4-js-017b32ed57a2e7f6511f.js.map"
     ],
     "app": [
-      "app-996e58f385a13d9a0b07.js",
+      "app-a02929721348f2b57218.js",
       "build-js-styles.css",
-      "app-996e58f385a13d9a0b07.js.map",
+      "app-a02929721348f2b57218.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-kit-full-js": [
