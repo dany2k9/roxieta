@@ -6,6 +6,13 @@
   document,'script','https://connect.facebook.net/en_US/fbevents.js');
   fbq('init', '2154113738206717'); // Insert your pixel ID here.
   fbq('track', "PageView");
+  
+  fbq('track', 'ViewContent', {
+  content_ids: ['1234'],
+  content_type: 'product',
+  value: 0.50,
+  currency: 'USD'
+  });
   fbq('track', 'AddToCart', {
   content_ids: ['1234', '1853', '9386'],
   content_type: 'product',
